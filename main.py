@@ -157,7 +157,7 @@ def hyper_is_listening():
 
                 # set custom instruction if you want
                 custom_instruction = None
-                model_type = "gpt-3"
+                model_type = "gpt-4"
                 chat_history_limit = 50
                 prompt = input("\nYou: ")
                 
